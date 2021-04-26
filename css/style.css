@@ -1,0 +1,12 @@
+.back{
+background-image:url(../images/dept-5.jpg);
+background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.subheader{
+    padding-bottom: 40px;
+    padding-top: 50px;
+    background-color: gainsboro;
+    margin-bottom: 50px;
+}
